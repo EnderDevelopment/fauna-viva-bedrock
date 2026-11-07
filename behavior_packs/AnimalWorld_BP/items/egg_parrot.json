@@ -1,0 +1,1 @@
+{"format_version":"1.21.50","minecraft:item":{"description":{"identifier":"animalworld:egg_parrot","menu_category":{"category":"items"}},"components":{"minecraft:max_stack_size":16,"minecraft:icon":{"texture":"animalworld_egg_parrot"},"minecraft:display_name":{"value":"African Grey Parrot Egg | Psittacus erithacus"},"minecraft:entity_placer":{"entity":"minecraft:parrot"}}}}

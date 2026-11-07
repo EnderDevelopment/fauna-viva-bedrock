@@ -1,0 +1,25 @@
+{
+  "title": "Animal World Egg Catalog",
+  "scope": "Curated Minecraft Bedrock animal catalog; not every animal species on Earth.",
+  "animals": [
+    {"common_name":"Axolotl","scientific_name":"Ambystoma mexicanum","entity":"minecraft:axolotl","ability":"Aquatic movement; can play dead and regenerate health."},
+    {"common_name":"Bee","scientific_name":"Apis mellifera","entity":"minecraft:bee","ability":"Flies, pollinates flowers, and can sting when angry."},
+    {"common_name":"Cat","scientific_name":"Felis catus","entity":"minecraft:cat","ability":"Tames with fish and scares creepers and phantoms."},
+    {"common_name":"Chicken","scientific_name":"Gallus gallus domesticus","entity":"minecraft:chicken","ability":"Glides while falling and lays eggs."},
+    {"common_name":"Cow","scientific_name":"Bos taurus","entity":"minecraft:cow","ability":"Can be milked with a bucket."},
+    {"common_name":"Dolphin","scientific_name":"Tursiops truncatus","entity":"minecraft:dolphin","ability":"Swims quickly and grants Dolphin's Grace nearby."},
+    {"common_name":"Donkey","scientific_name":"Equus africanus asinus","entity":"minecraft:donkey","ability":"Can be tamed, ridden, and equipped with a chest."},
+    {"common_name":"Fox","scientific_name":"Vulpes vulpes","entity":"minecraft:fox","ability":"Moves quickly, hunts small animals, and can carry items."},
+    {"common_name":"Frog","scientific_name":"Rana temporaria","entity":"minecraft:frog","ability":"Jumps high and produces froglights by eating small magma cubes."},
+    {"common_name":"Goat","scientific_name":"Capra hircus","entity":"minecraft:goat","ability":"Jumps high and can ram nearby mobs."},
+    {"common_name":"Horse","scientific_name":"Equus ferus caballus","entity":"minecraft:horse","ability":"Can be tamed, ridden, and equipped with armor."},
+    {"common_name":"Llama","scientific_name":"Lama glama","entity":"minecraft:llama","ability":"Can be tamed, carry a chest, and spit at hostile targets."},
+    {"common_name":"Panda","scientific_name":"Ailuropoda melanoleuca","entity":"minecraft:panda","ability":"Eats bamboo; personality variants include playful and aggressive."},
+    {"common_name":"African Grey Parrot","scientific_name":"Psittacus erithacus","entity":"minecraft:parrot","ability":"Can be tamed and imitates nearby hostile mob sounds."},
+    {"common_name":"Pig","scientific_name":"Sus scrofa domesticus","entity":"minecraft:pig","ability":"Can be ridden with a saddle and steered with a carrot on a stick."},
+    {"common_name":"Rabbit","scientific_name":"Oryctolagus cuniculus","entity":"minecraft:rabbit","ability":"Hops quickly and has multiple coat variants."},
+    {"common_name":"Sheep","scientific_name":"Ovis aries","entity":"minecraft:sheep","ability":"Can be sheared for wool and eats grass to regrow wool."},
+    {"common_name":"Green Sea Turtle","scientific_name":"Chelonia mydas","entity":"minecraft:turtle","ability":"Returns to its home beach and lays eggs there."},
+    {"common_name":"Wolf","scientific_name":"Canis lupus","entity":"minecraft:wolf","ability":"Can be tamed and attacks targets commanded by its owner."}
+  ]
+}

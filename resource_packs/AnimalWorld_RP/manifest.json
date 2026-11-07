@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Animal World Egg Box Resources",
+    "description": "Names and icons for the Animal World Egg Box.",
+    "uuid": "5bf0ed8c-cc9d-4b2a-9df7-24ed5cc7a408",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 50]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "ad0a0fa8-46c9-4bba-a6f7-5b4bd6713d74",
+      "version": [1, 0, 0]
+    }
+  ]
+}

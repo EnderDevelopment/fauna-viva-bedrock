@@ -1,0 +1,66 @@
+{
+  "resource_pack_name": "Animal World Egg Box Resources",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "animalworld_egg_box": {
+      "textures": "textures/items/chest"
+    },
+    "animalworld_egg_axolotl": {
+      "textures": "textures/items/spawn_egg"
+    },
+    "animalworld_egg_bee": {
+      "textures": "textures/items/spawn_egg"
+    },
+    "animalworld_egg_cat": {
+      "textures": "textures/items/spawn_egg"
+    },
+    "animalworld_egg_chicken": {
+      "textures": "textures/items/spawn_egg"
+    },
+    "animalworld_egg_cow": {
+      "textures": "textures/items/spawn_egg"
+    },
+    "animalworld_egg_dolphin": {
+      "textures": "textures/items/spawn_egg"
+    },
+    "animalworld_egg_donkey": {
+      "textures": "textures/items/spawn_egg"
+    },
+    "animalworld_egg_fox": {
+      "textures": "textures/items/spawn_egg"
+    },
+    "animalworld_egg_frog": {
+      "textures": "textures/items/spawn_egg"
+    },
+    "animalworld_egg_goat": {
+      "textures": "textures/items/spawn_egg"
+    },
+    "animalworld_egg_horse": {
+      "textures": "textures/items/spawn_egg"
+    },
+    "animalworld_egg_llama": {
+      "textures": "textures/items/spawn_egg"
+    },
+    "animalworld_egg_panda": {
+      "textures": "textures/items/spawn_egg"
+    },
+    "animalworld_egg_parrot": {
+      "textures": "textures/items/spawn_egg"
+    },
+    "animalworld_egg_pig": {
+      "textures": "textures/items/spawn_egg"
+    },
+    "animalworld_egg_rabbit": {
+      "textures": "textures/items/spawn_egg"
+    },
+    "animalworld_egg_sheep": {
+      "textures": "textures/items/spawn_egg"
+    },
+    "animalworld_egg_turtle": {
+      "textures": "textures/items/spawn_egg"
+    },
+    "animalworld_egg_wolf": {
+      "textures": "textures/items/spawn_egg"
+    }
+  }
+}

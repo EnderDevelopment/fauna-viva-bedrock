@@ -1,0 +1,1 @@
+{"format_version":"1.21.50","minecraft:item":{"description":{"identifier":"animalworld:egg_donkey","menu_category":{"category":"items"}},"components":{"minecraft:max_stack_size":16,"minecraft:icon":{"texture":"animalworld_egg_donkey"},"minecraft:display_name":{"value":"Donkey Egg | Equus africanus asinus"},"minecraft:entity_placer":{"entity":"minecraft:donkey"}}}}

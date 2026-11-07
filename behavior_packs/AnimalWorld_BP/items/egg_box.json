@@ -1,0 +1,1 @@
+{"format_version":"1.21.50","minecraft:item":{"description":{"identifier":"animalworld:egg_box","menu_category":{"category":"items"}},"components":{"minecraft:max_stack_size":1,"minecraft:icon":{"texture":"animalworld_egg_box"},"minecraft:display_name":{"value":"Animal Egg Box | World Catalog"}}}}
